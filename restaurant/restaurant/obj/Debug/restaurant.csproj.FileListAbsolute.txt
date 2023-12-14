@@ -1,0 +1,11 @@
+C:\Users\yanislav\source\repos\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\yanislav\source\repos\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\Users\yanislav\source\repos\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.csproj.AssemblyReference.cache
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\yanislav\source\repos\restaurant\restaurant\obj\Debug\restaurant.menu.resources
