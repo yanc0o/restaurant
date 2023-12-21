@@ -35,21 +35,17 @@ namespace restaurant
             else if (pushachi == "да")
             {
                 MessageBox.Show($"заповядайте в зоната за пушачи, на маса за {broihora} човека");
-                MessageBox.Show("натиснете OK за меню", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-                menu secondForm = new menu();
-
-                secondForm.Show();
+               menu menu = new menu();
+                menu.Show();
+                this.Hide();
             }
             else if (pushachi == "не")
             {
                 MessageBox.Show($"заповядайте в зоната за непушачи на маса за {broihora} човека");
 
-                MessageBox.Show("натиснете OK за меню", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-                menu secondForm = new menu();
-
-                secondForm.Show();
+                menu menu = new menu();
+                menu.Show();
+                this.Hide();
             }
             else 
             {
